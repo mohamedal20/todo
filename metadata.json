@@ -1,0 +1,5 @@
+{
+  "name": "Gemini To-Do List",
+  "description": "A modern and sleek to-do list application built with React, TypeScript, and Tailwind CSS. It allows users to add, complete, and delete tasks, with all data persisted in the browser's local storage.",
+  "requestFramePermissions": []
+}
